@@ -1,7 +1,7 @@
 name: PixelsKenya
 favicon: null
-layout_spectrum: 0.5198574122041464
-typography_spectrum: 0.27584845875389874
+layout_spectrum: 0.26761
+typography_spectrum: 0.84368
 title: PixelsKenya
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.7225495376624167
-  lightness: 0.22279831115156412
-  saturation: 0.30854516942054033
-  rhythmicContrast: 0.8804188286885619
+    - '#913779'
+    - '#000000'
+    - '#e2d437'
+    - '#209fd9'
+    - '#ff0000'
+  brandStrength: 0.875
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
