@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[PixelsKenya]]></title>
         <description><![CDATA[PixelsKenya]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pixelskenya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 21:10:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 21:24:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pixelskenya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tell me about PixelsKenya]]></title>
+            <description><![CDATA[<article><h1>Tell me about PixelsKenya</h1><p>We start from a fundamental
+belief:We believe in better. Making
+businesses better by connecting them to their clients. For us believing in
+better means offering new and innovative ways to reach customers. For us better
+means expect more. For us better means we are not great for now but stick with
+us. For us better means we are a one stop shop for all your communications needs.
+From branding services, video and film production, photography, web design and
+development, social media management and everything in between.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db47e2c0-fcfc-448b-8e3f-02ffbe245482.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pixelskenya/tell-me-about-pixelskenya/index.html</link>
+            <guid isPermaLink="false">d2af42a2-0145-4b09-ac00-d76f5df1268b</guid>
+            <pubDate>Sun, 03 Jan 2016 21:24:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2015 was a year of Possibilities: PixelsKenya year in review.]]></title>
             <description><![CDATA[<article><h1>2015 was a year of Possibilities: PixelsKenya year in review.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f48d9771a9b63a0dd75c1a22fadacc7c2b6cbe8.png"></article>]]></description>
-            <link>undefined2015-was-a-year-of-possibilities-pixelskenya-year-in-review/index.html</link>
+            <link>https://thegrid.ai/pixelskenya/2015-was-a-year-of-possibilities-pixelskenya-year-in-review/index.html</link>
             <guid isPermaLink="false">5c91ed7e-e921-4f50-9a81-9f2bebae5cdb</guid>
             <pubDate>Sun, 03 Jan 2016 21:10:46 GMT</pubDate>
         </item>
