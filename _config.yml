@@ -1,7 +1,7 @@
 name: PixelsKenya
 favicon: null
-layout_spectrum: 0.85545
-typography_spectrum: 0.84368
+layout_spectrum: 0.6212
+typography_spectrum: 0.48045
 title: PixelsKenya
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#ff0000'
   brandStrength: 0
   lightness: 1
-  saturation: 0.6875
+  saturation: 0.5625
   rhythmicContrast: 1
 purpose: []
