@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-01T19:05:48.307Z'
+datePublished: '2016-09-01T19:09:13.147Z'
+sourcePath: _posts/2016-09-01-the-most-talented-ladies-one-earth.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T19:05:24.659Z'
+dateModified: '2016-09-01T19:09:10.737Z'
 title: ''
 publisher:
   name: Amos
 description: The most talented ladies one earth
 starred: false
-sourcePath: _posts/2016-09-01-the-most-talented-ladies-one-earth.md
 _type: Blurb
 
 ---
